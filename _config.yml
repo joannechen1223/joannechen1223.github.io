@@ -32,8 +32,8 @@ url: "https://joannechen1223.github.io"
 github:
   username: joannechen1223 # change to your github username
 
-twitter:
-  username: pianpian_qq # change to your twitter username
+linkedin:
+  url: https://www.linkedin.com/in/jouan-chen-joanne/
 
 social:
   # Change to your full name.
@@ -42,7 +42,7 @@ social:
   email: jc3553@cornell.edu # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://www.linkedin.com/in/jou-an-chen-303a9015a/
+    - https://www.linkedin.com/in/jouan-chen-joanne/
     - https://twitter.com/pianpian_qq # change to your twitter homepage
     - https://github.com/joannechen1223 # change to your github homepage
     # Uncomment below to add more social links
